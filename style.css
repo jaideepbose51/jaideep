@@ -1,0 +1,27 @@
+img{
+
+    height: 10%;
+    width: 10%;
+}
+#s1{
+    height: 20px;
+    width: 20px;
+}
+body{
+    background-color: #EAF6F6;
+    font: italic small-caps bold 16px/2 cursive;
+}
+hr
+{
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 9px;
+    width: 5%;
+}
+h1
+{
+    color: #1A0000;
+}
+h2{
+    text-decoration: #243763 wavy underline;
+}
